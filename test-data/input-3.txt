@@ -1,0 +1,3 @@
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+# if it can't fire because of a failure it should result in FAILURE

@@ -1,0 +1,4 @@
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+# if it fires alternately it should result in 2 SUCCESS outputs
